@@ -1,0 +1,15 @@
+.vscode
+.temp_files
+*.jpg
+*.jpeg
+*.txt
+*.zip
+*.png
+*.wts
+__pycache__
+weights
+input
+data/kouzhao
+results
+output
+curve
